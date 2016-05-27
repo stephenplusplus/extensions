@@ -1,28 +1,28 @@
 # Chrome Extensions
 
-## Awesome Screenshot
+### Awesome Screenshot
 https://chrome.google.com/webstore/detail/alelhddbbhepgpmgidjdcjakblofbmce
 
-## Contributors on Github
+### Contributors on Github
 https://github.com/hzoo/contributors-on-github
 
-## GifHub
+### GifHub
 https://chrome.google.com/webstore/detail/lponagpckglibniamicamklhfkoebpeb
 
-## GitHub EditorConfig
+### GitHub EditorConfig
 https://github.com/RReverser/github-editorconfig
 
-## Google Cloud Platform Status
+### Google Cloud Platform Status
 https://github.com/stephenplusplus/gcp-status
 
-## Octo Preview
+### Octo Preview
 https://chrome.google.com/webstore/detail/elomekmlfonmdhmpmdfldcjgdoacjcba
 
-## OctoLinker
+### OctoLinker
 https://github.com/OctoLinker/browser-extension
 
-## Refined GitHub
+### Refined GitHub
 https://github.com/sindresorhus/refined-github
 
-## Switcheroo Redirector
+### Switcheroo Redirector
 https://chrome.google.com/webstore/detail/cnmciclhnghalnpfhhleggldniplelbg
