@@ -1,7 +1,7 @@
 # Chrome Extensions
 
 ### Awesome Screenshot
-https://chrome.google.com/webstore/detail/alelhddbbhepgpmgidjdcjakblofbmce
+https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en
 
 ### Contributors on Github
 https://github.com/hzoo/contributors-on-github
