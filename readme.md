@@ -18,6 +18,9 @@ https://github.com/stephenplusplus/gcp-status
 ### Octo Preview
 https://chrome.google.com/webstore/detail/elomekmlfonmdhmpmdfldcjgdoacjcba
 
+### Octo Tern
+https://chrome.google.com/webstore/detail/octotern/fhgodjaafcddpfdpfmoimnjpelemhnmm
+
 ### OctoLinker
 https://github.com/OctoLinker/browser-extension
 
